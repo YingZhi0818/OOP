@@ -1,0 +1,49 @@
+Product ID: ST01
+Category: Stationary
+Product Name: Pencil
+Description: 2B Pencil
+Price: RM1.00
+Quantity: 333
+--
+Product ID: PP01
+Category: Paper Products
+Product Name: A4 Paper
+Description: 210 x 297 mm (50 sheets)
+Price: RM6.00
+Quantity: 323
+--
+Product ID: PP02
+Category: Paper Products
+Product Name: Notebook
+Description: Campap Write on A4 Exercise Book
+Price: RM2.80
+Quantity: 256
+--
+Product ID: TO01
+Category: Tools
+Product Name: Scissors
+Description: Stainless Steel Scissors
+Price: RM8.90
+Quantity: 130
+--
+Product ID: ST02
+Category: Stationary
+Product Name: Eraser
+Description: Stabilo Eraser Exam Grade
+Price: RM2.80
+Quantity: 467
+--
+Product ID: TO02
+Category: Tools
+Product Name: Glue
+Description: Elite Roller Stationary Glue
+Price: RM1.85
+Quantity: 303
+--
+Product ID: ST03
+Category: Stationary
+Product Name: Pen
+Description: FABER CASTELL Click X7 Ballpoint Pen
+Price: RM1.50
+Quantity: 509
+--
